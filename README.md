@@ -5,6 +5,7 @@
 - 📫 How to reach me : reach me at anirudhm8926@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: can't think of anything right now :)
+- learning how to use ML algorithms from scikitlearn!
 
 <!---
 anirudh8926/anirudh8926 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
