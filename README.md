@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anirudh8926
 - 👀 I’m interested in learning and writing python code
-- 🌱 I’m currently learning python and JavaScript
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on simple python projects to get me started 
 - 📫 How to reach me : reach me at anirudhm8926@gmail.com
 - 😄 Pronouns: He/Him
